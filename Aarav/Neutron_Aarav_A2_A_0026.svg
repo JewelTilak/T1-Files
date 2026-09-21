@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 300">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #4339ff;
+      }
+
+      .st1 {
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+
+      .st1, .st2 {
+        stroke: #000;
+      }
+
+      .st1, .st2, .st3 {
+        fill: #fff;
+      }
+
+      .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st3 {
+        isolation: isolate;
+        opacity: .3;
+      }
+    </style>
+  </defs>
+  <circle class="st0" cx="147.6" cy="141.8" r="70.6"/>
+  <path class="st3" d="M188.1,188.7c-4.4,3.3-8.8,6.7-13.3,10,7.5-7.2,25.7-26.8,27-55,1.6-32.3-20-55-27-61.8,4.4,3.3,8.8,6.7,13.3,10,6.3,7.7,20.3,26.8,18.6,52.8-1.4,21-12.3,36.4-18.6,44Z"/>
+  <ellipse class="st1" cx="105" cy="102.2" rx="7.8" ry="6.4" transform="translate(-38.6 131.1) rotate(-55.6)"/>
+  <circle class="st2" cx="92.7" cy="122.1" r="4.5"/>
+</svg>
